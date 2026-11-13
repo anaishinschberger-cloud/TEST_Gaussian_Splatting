@@ -1,0 +1,13 @@
+# Photos et données
+data/
+
+# Résultats volumineux
+output/
+
+# Dépôt officiel INRIA téléchargé séparément
+external/gaussian-splatting/
+
+# Fichiers temporaires
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
