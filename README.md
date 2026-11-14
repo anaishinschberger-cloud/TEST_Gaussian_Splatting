@@ -16,4 +16,4 @@ The different steps were carried out using Google Colab notebooks.
 
 This project was mainly done for learning and experimentation. The algorithm was not implemented from scratch.
 
-**AI tools were used extensively** to save time, especially for environment setup, debugging, and organizing the notebooks.
+**AI tools were used extensively** to save time.
